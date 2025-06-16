@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # h2o_admin_app
 
 # Documentación del Proyecto de Software
@@ -76,3 +77,7 @@ Similares a los `controllers`, los `providers` pueden organizarse por funcionali
 [Documentación oficial de flutter](https://docs.flutter.dev/) 
 
 
+=======
+# Register_bills
+Repositorio de una aplicación movil para el registro de gastos diarios de cualquier indole.
+>>>>>>> 70c59bf8a5483c809f589e2ce4a9c54c7392df69
