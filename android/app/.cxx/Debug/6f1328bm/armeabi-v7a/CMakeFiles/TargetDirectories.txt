@@ -1,0 +1,2 @@
+C:/Programing/h2o_admin_app/android/app/.cxx/Debug/6f1328bm/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Programing/h2o_admin_app/android/app/.cxx/Debug/6f1328bm/armeabi-v7a/CMakeFiles/rebuild_cache.dir

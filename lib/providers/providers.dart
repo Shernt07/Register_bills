@@ -1,0 +1,6 @@
+//  Barril de providers, todos en un solo lugar
+export 'simple_name_provider.dart';
+
+
+// EN PROGRESO...
+//  EN MIGRACIÓN...
